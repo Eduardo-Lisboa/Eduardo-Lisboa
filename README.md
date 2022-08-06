@@ -1,8 +1,6 @@
 ### Olá, meu nome é Eduardo Henrique Lisboa
 ### Bem-vindo ao meu perfil
 ### Atualemnte sou estagiário na empresa TCS
-### Estou estudando Java e Banco de Dados
-
 
 <div>
   <a href="https://github.com/Eduardo-Lisboa">
