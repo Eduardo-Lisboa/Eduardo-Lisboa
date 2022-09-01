@@ -18,4 +18,4 @@
   <a href="https://www.linkedin.com/in/eduardo-henrique-lisboa-alves-077943a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-  ![Snake animation](https://github.com/wheslleyrimar/wheslleyrimar/blob/output/github-contribution-grid-snake.svg)
+  !![Contribution](https://activity-graph.herokuapp.com/graph?username=Eduardo-Lisboa&theme=gotham&hide_border=true&area=true)
