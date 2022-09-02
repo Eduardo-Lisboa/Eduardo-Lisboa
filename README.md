@@ -18,4 +18,4 @@
   <a href="https://www.linkedin.com/in/eduardo-henrique-lisboa-alves-077943a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-  !![Contribution](https://activity-graph.herokuapp.com/graph?username=Eduardo-Lisboa&theme=gotham&hide_border=true&area=true)
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=Eduardo-Lisboa&theme=gotham&hide_border=true&area=true)
