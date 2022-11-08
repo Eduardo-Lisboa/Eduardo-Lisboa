@@ -1,6 +1,6 @@
 ### Olá, meu nome é Eduardo Henrique Lisboa
 ### Bem-vindo ao meu perfil
-### Atualemnte sou estagiário na empresa TCS
+### Atualemnte sou trainee na empresa TCS
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Lisboa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Henrique Lisboa github stats" /> 
