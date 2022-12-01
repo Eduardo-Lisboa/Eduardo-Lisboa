@@ -7,6 +7,8 @@
   <a href="https://www.linkedin.com/in/eduardo-henrique-lisboa-alves-077943a8/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/duuh_lisboa/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:henriqueeduardo63@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a height="50" href="https://cursos.alura.com.br/vitrinedev/henriqueeduardo63" target="_blank"><img height="28" src="https://media.glassdoor.com/sqll/2500530/alura-squarelogo-1602197362646.png" target="_blank"></a>
+  
 
 
 
