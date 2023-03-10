@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on tata consultancy services<br>🌱 I’m currently learning TypeScript<br>
+🔭 I’m currently working on tata consultancy services<br>🌱 I’m currently learning Java<br>
 
 
 ## 🌐 Socials:
